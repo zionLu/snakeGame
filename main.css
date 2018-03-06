@@ -1,0 +1,13 @@
+.row{
+	display: -webkit-flex;
+	display: flex;
+}
+.cell{
+	width: 125px;
+	height: 125px;
+	float: left;
+	border: 3px black solid;
+	
+	/*background-color: red;*/
+	
+}
